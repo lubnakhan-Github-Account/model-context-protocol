@@ -5,7 +5,7 @@ ___
   - Must add the end point /mcp/.
   - And exposed at the serface of 8000\.
 
-### commwnd to run
+### command to run
   ```python
     uv run uvicorn main:mcp
 ```
